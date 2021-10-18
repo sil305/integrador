@@ -1,0 +1,314 @@
+#Nav {
+    background-color: 4B504B;
+    height: 70px;
+}
+
+#Icono {
+    width: 100px; 
+    height: 57px; 
+    position: relative; left: 80px;
+}
+
+#ConfBsAs {
+    padding-right: 370px; 
+    color: white;
+}
+
+#Conferencia {
+    color: white; 
+    font-size: medium; 
+    position: relative; right: 50px
+}
+
+#Oradores {
+    color: #AAB7B8; 
+    font-size: 15px; 
+    position: relative; right: 50px 
+}
+
+#LugarFecha {
+    color: #AAB7B8; 
+    font-size: 15px; 
+    position: relative; right: 50px 
+}
+
+#Orador {
+    color: #AAB7B8; 
+    font-size: 15px; 
+    position: relative; right: 50px
+}
+
+#Ticket {
+    color: #27AE60; 
+    font-size: 15px; 
+    position: relative; right: 50px
+}
+
+#Aguas {
+    width: 100%;
+    filter: brightness(50%);
+}
+
+#Propuesta {
+    color: white;
+    font-size: 24.6px;
+    text-align: right;
+    margin-right: 145px;
+    flex-flow: column wrap;
+    position: absolute;
+    top: 36%;
+    left: 30%;
+    padding-top: 25px;
+}
+
+#Boton1 {
+    position: absolute;
+    top: 79%;
+    left: 58%;
+    font-size: x-large;
+}
+
+#Boton2 {
+    position: absolute;
+    top: 79%;
+    left: 75%;
+    font-size: x-large;
+    background-color: #3DA648;
+    border-color: #3DA648;
+}
+
+.card-group {
+    margin: 5% 12%;
+    position: relative; bottom: 100px;
+    font-size: smaller;
+}
+
+.card {
+    margin: 1% 3%;
+}
+
+#JS1 {
+    font-weight: bold;
+    width: 74px;
+}
+
+#React1 {
+    color: white;
+    font-weight: bold;
+}
+
+#JS2 {
+    font-weight: bold;
+    width: 74px;
+}
+
+#React2 {
+    color: white;
+    font-weight: bold;
+}
+
+#Negocios {
+    color: white;
+    font-weight: bold;
+    width: 70px;
+}
+
+#Startups {
+    color: white;
+    font-weight: bold;
+}
+
+#JS1, #React1, #JS2, #React2, #Negocios, #Startups {
+    font-size: small;
+    padding: 2px;
+    border: none;
+    margin-right: 4px;
+}
+
+#OctubrePic {
+    width: 50%;
+    position: relative; bottom: 120px;
+    }
+
+#Octubre {
+    background-color: #2B2E2B;
+    height: 428px;
+    position: relative; bottom: 120px;
+    width: 50%;
+    float: right;
+}
+
+#BsAsOct {
+    color: white;
+    font-size: 24.6px;
+    text-align: end;
+    position: relative; bottom: 530px;
+    margin-right: 478px;
+}
+
+#TextOct {
+    color: white;
+    font-size: 13.2px;
+    text-align: left;
+    position: relative; bottom: 528px;
+    flex-flow: column wrap;
+    margin-left: 700px;
+}
+
+#Conoce {
+    position: relative; bottom: 528px;
+    flex-flow: column wrap;
+    margin-left: 700px;
+}
+
+.subrayado {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+#Nombre {
+    width: 55%;
+    margin-left: 300px;
+    position: relative; bottom: 250px;
+}
+
+#Apellido {
+    width: 60%;
+    position: relative; bottom: 250px;
+}
+
+#Sobre {
+    width: 56.7%;
+    height: 110px;
+    position: relative; bottom: 230px;
+    margin-left: 300px;
+}
+
+#Charla {
+    height: 110px;
+    position: relative; bottom: 240px;
+    margin-left: 300px;
+    color: grey;
+}
+
+#Enviar {
+    width: 56.7%;
+    height: 50px;
+    position: relative; bottom: 320px;
+    margin-left: 300px;
+    background-color: #8ACA3D;
+    font-size: larger;
+}
+
+#Estudiante {
+    width: 250px;
+    height: 170px;
+    position: relative; bottom: 310px;
+    margin-left: 300px;
+    text-align: center;
+}
+
+#Trainee {
+    width: 250px;
+    height: 170px;
+    position: relative; bottom: 496px;
+    margin-left: 558px;
+    text-align: center;
+}
+
+#Junior {
+    width: 250px;
+    height: 170px;
+    position: relative; bottom: 682px;
+    margin-left: 815px;
+    text-align: center;
+}
+
+#Nombre2 {
+    width: 55%;
+    margin-left: 300px;
+    position: relative; bottom: 680px;
+}
+
+#Apellido2 {
+    width: 60%;
+    position: relative; bottom: 680px;
+}
+
+#exampleInputEmail1 {
+    width: 56.8%;
+    position: relative; bottom: 660px;
+    margin-left: 299px;
+}
+
+#Cant {
+    margin-left: 300px;
+    margin-bottom: 8px;
+    position: relative; bottom: 640px;
+}
+
+#validationCustom03 {
+    width: 53%;
+    height: 30px;
+    margin-left: 300px;
+    position: relative; bottom: 642px;
+}
+
+#Cat {
+    margin-left: 680px;
+    margin-bottom: 8px;
+    position: relative; bottom: 720px;
+}
+
+#exampleFormControlSelect2 {
+    width: 29%;
+    height: 30px;
+    margin-left: 674px;
+    position: relative; bottom: 720px;
+}
+
+#Pagar {
+    background:#C9F0F6;
+    border-color: cadetblue;
+    border-radius: 5px;
+    padding: .5rem;
+    width: 56.8%;
+    height: 40px;
+    margin-left: 300px;
+    position: relative; bottom: 700px;
+}
+
+#Borrar {
+    width: 26.5%;
+    height: 50px;
+    position: relative; bottom: 670px;
+    margin-left: 300px;
+    background-color: #8ACA3D;
+    font-size: larger;
+}
+
+#Resumen {
+    width: 29%;
+    height: 50px;
+    position: relative; bottom: 670px;
+    margin-left: 12px;
+    background-color: #8ACA3D;
+    font-size: larger;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    padding: 0 5rem 0 5rem;
+    align-items: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    border: none;
+    height: 110px;
+    color: white;
+    font-size: small;
+    justify-content: space-evenly;
+    background: rgb(9,9,121);
+    background: linear-gradient(90deg, rgba(27,55,67,1) 0%, rgba(31,82,113,1) 100%);
+}
